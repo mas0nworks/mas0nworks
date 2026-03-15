@@ -13,3 +13,8 @@ We also work with developer and open-source ecosystems through practical deploym
 ## Learn more:
 
 * https://www.tencentcloud.com/products/lighthouse
+* https://www.tencentcloud.com/act/pro/intl-openclaw
+* [Discord](https://discord.com/invite/NDqtU3JQTc)
+* [TencentCompute on X](https://x.com/TencentCompute)
+* [Medium: Tencent Cloud Compute](https://medium.com/@lighthouse_global)
+* [LowEndTalk: TencentLighthouse](https://lowendtalk.com/profile/TencentLighthouse)
