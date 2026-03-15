@@ -5,7 +5,7 @@
 ![Uptime](https://img.shields.io/badge/Uptime-24%2F7-brightgreen.svg)
 ![IM Integration](https://img.shields.io/badge/IM-WhatsApp%20%7C%20Telegram%20%7C%20Discord%20%7C%20Slack-purple)
 
-**腾讯云 Lighthouse（轻量应用服务器）**致力于为开发者、初创企业和小型团队提供极简的云端基础设施。
+**腾讯云 Lighthouse（轻量应用服务器** 致力于为开发者、初创企业和小型团队提供极简的云端基础设施。
 
 **🎯 我们的使命**
 **让云端部署变得更简单、更快捷、更触手可及。**
