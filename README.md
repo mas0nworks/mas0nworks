@@ -10,5 +10,6 @@ From websites and development environments to practical application deployment, 
 
 We also work with developer and open-source ecosystems through practical deployment experiences, including OpenClaw on Lighthouse.
 
-Learn more:
-https://www.tencentcloud.com/products/lighthouse
+## Learn more:
+
+* https://www.tencentcloud.com/products/lighthouse
